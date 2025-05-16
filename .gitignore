@@ -3,4 +3,3 @@
 .terraform.tfstate.backup
 *.tfstate
 terraform.tfstate.backup
-ter
